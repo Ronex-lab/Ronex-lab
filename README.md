@@ -9,7 +9,7 @@ Hi, I’m Ronex Caxtone, a passionate web developer 💻 from Nairobi, Kenya.
 - 🌱 I’m currently working on exciting web projects using HTML, CSS, and JavaScript.
 - 🌿 I’m currently learning advanced JavaScript frameworks and responsive design to build modern applications.
 - 💬 Ask me about anything—I’m happy to help with web development, coding tips, or tech projects!
-- 📫 How to reach me: [@ronexcaxtone](mailto:ronexcaxtone5@gmail.com)
+- 📫 How to reach me: [@ronexcaxtone5@gmail.com](mailto:ronexcaxtone5@gmail.com)
 
 ## Languages and Tools:
 
