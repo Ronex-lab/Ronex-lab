@@ -2,7 +2,7 @@
 
 ![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?logo=instagram&style=social) ![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?logo=twitter&style=social)
 
-Hi, I’m Ronex Caxtone, a passionate web developer 💻 from Mumias, Kenya.
+Hi, I’m Ronex Caxtone, a passionate web developer 💻 from Nairobi, Kenya.
 
 ## Talking about Personal Stuffs:
 
