@@ -4,7 +4,7 @@
 
 Hi, I’m Ronex Caxtone, a passionate web developer 💻 from Nairobi, Kenya.
 
-## Talking about Personal Stuffs:
+##  Personal Insights:
 
 - 🌱 I’m currently working on exciting web projects using HTML, CSS, and JavaScript.
 - 🌿 I’m currently learning advanced JavaScript frameworks and responsive design to build modern applications.
