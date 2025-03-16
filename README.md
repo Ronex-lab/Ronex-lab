@@ -17,7 +17,7 @@ Hi, I’m Ronex Caxtone, a passionate web developer 💻 from Nairobi, Kenya.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)## Hi there 👋
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **Ronex-lab/Ronex-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
